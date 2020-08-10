@@ -17,7 +17,7 @@ To complement or correct it, please contact me at **zhoukang [at] shanghaitech [
   * [Other modalities](#other-modalities)
 - [Non-deep learning based methods](#non-deep-learning-based-methods)
   * [Brain MRI](#brain-mri-1)
-- [Some works that related to anomaly detection](#some works that related to anomaly detection)
+- [Some works that related to anomaly detection](#some-works-that-related-to-anomaly-detection)
 - [Not yet public (MICCAI 2020)](#not-yet-public)
 
 # Deep learning based methods
