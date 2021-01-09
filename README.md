@@ -3,9 +3,9 @@ A curated list of awesome anomaly detection works in medical imaging, inspired b
 
 For a complete list of anomaly detection in general computer vision, please visit [awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection).
 
---- Last updated: Aug. 10, 2020 ---
+--- Last updated: Jan. 9, 2021 ---
 
-To complement or correct it, please contact me at **zhoukang [at] shanghaitech [dot] edu [dot] cn** or send a pull request.
+To complement or correct it, please contact me at **zhoukang [at] shanghaitech [dot] edu [dot] cn** or **send a pull request**.
 
 ## Overview
 - [Deep learning based methods](#deep-learning-based-methods)
@@ -58,6 +58,8 @@ To complement or correct it, please contact me at **zhoukang [at] shanghaitech [
 
 ## Other modalities
 - [Tian _et. al._] [Few-Shot Anomaly Detection for Polyp Frames from Colonoscopy] [MICCAI'20] [[google scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Few-Shot+Anomaly+Detection+for+Polyp+Frames+from+Colonoscopy&btnG=) [[pdf]](https://arxiv.org/abs/2006.14811)[[code]](https://github.com/tianyu0207/FSAD-Net)
+- [Liu _et. al._] [Photoshopping Colonoscopy Video Frames] [ISBI'20] [[google scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Photoshopping+Colonoscopy+Video+Frames&btnG=) [[pdf]](https://arxiv.org/pdf/1910.10345.pdf)
+
 
 # Non-deep learning based methods
 ## Brain MRI
