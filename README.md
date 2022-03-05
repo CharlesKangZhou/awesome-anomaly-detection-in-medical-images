@@ -13,7 +13,7 @@ To complement or correct it, please contact me at **zhoukang [at] shanghaitech [
   * [Brain CT](#brain-ct)
   * [Retinal OCT](#retinal-oct)
   * [Retinal fundus](#retinal-fundus)
-  * [Chest X-Ray in CT](#chest-x-ray-in-ct)
+  * [Chest X-Ray](#chest-x-ray)
   * [Other modalities](#other-modalities)
 - [Non-deep learning based methods](#non-deep-learning-based-methods)
   * [Brain MRI](#brain-mri-1)
