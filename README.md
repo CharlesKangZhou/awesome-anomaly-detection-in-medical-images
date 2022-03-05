@@ -51,7 +51,7 @@ To complement or correct it, please contact me at **zhoukang [at] shanghaitech [
 ## Retinal fundus
 - [Zhou _et. al._] [Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images] [ECCV'20] [[pdf]](http://zhoukang.pro/paper/2020_ECCV_pnet.pdf.pdf)[[code]](https://github.com/ClancyZhou/P_Net_Anomaly_Detection)
 
-## Chest X-Ray in CT
+## Chest X-Ray
 - [Tang _et. al._] [Abnormal Chest X-ray Identification With Generative Adversarial One-Class Classifier] [ISBI'19] [[google scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abnormal+Chest+X-ray+Identification+With+Generative+Adversarial+One-Class+Classifier&btnG=) [[pdf]](https://arxiv.org/abs/1903.02040)
 - [Zhang _et. al._] [Viral Pneumonia Screening on Chest X-ray Images Using Confidence-Aware Anomaly Detection] [arxiv, 2020] [[google scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Viral+Pneumonia+Screening+on+Chest+X-ray+Images+Using+Confidence-Aware+Anomaly+Detection&btnG=) [[pdf]](https://arxiv.org/abs/2003.12338)
 - [Wolleb _et. al._] [DeScarGAN: Disease-Specific Anomaly Detection with Weak Supervision] [MICCAI'20] [[google scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DeScarGAN%3A+Disease-Specific+Anomaly+Detection+with+Weak+Supervision&btnG=) [[pdf]](https://arxiv.org/abs/2007.14118)[[code]](https://github.com/JuliaWolleb/DeScarGAN)
